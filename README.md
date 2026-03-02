@@ -43,6 +43,42 @@ https://datasets.wri.org/datasets/global-power-plant-database
 
 ---
 
+## Documentación del modelado de datos
+
+El proceso de preparación y modelado de datos se realizó en Python utilizando la base original **Global Power Plant Database** del World Resources Institute (WRI).
+
+### Principales etapas del modelado
+
+**1. Carga de datos**
+Se importó el archivo original en formato CSV mediante la librería pandas.
+
+**2. Limpieza de datos**
+- Eliminación de registros duplicados.
+- Remoción de valores nulos en variables clave.
+- Filtrado de plantas con capacidad no válida.
+
+**3. Transformación de variables**
+Se generaron nuevas variables para facilitar el análisis:
+
+- Clasificación de tipo de energía: Renovable / No renovable.
+- Conversión de capacidad instalada de MW a GW.
+- Cálculo de antigüedad de las plantas.
+- Transformación de variables temporales a formato largo para análisis de tendencias.
+
+**4. Selección final de columnas**
+Se conservaron únicamente variables relevantes para optimizar el rendimiento del dashboard en Looker Studio.
+
+**5. Exportación**
+La base final fue exportada a CSV y cargada en Google Sheets para su conexión con Looker Studio.
+
+---
+
+📄 La documentación completa del proceso se encuentra disponible en este repositorio:
+
+👉 [Documentación completa del modelado](DocumentaciónModeladoDatos_ProyectoFinal_Grupo4.docx)
+
+---
+
 ## Equipo
 
 **DataSquad**  
