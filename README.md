@@ -1,4 +1,4 @@
-# Panorama Global de las Plantas de Energía
+# ¿Está el mundo reduciendo realmente su dependencia de los combustibles fósiles?
 
 ## Contexto
 
@@ -75,8 +75,8 @@ La base final fue exportada a CSV y cargada en Google Sheets para su conexión c
 
 📄 La documentación completa del proceso se encuentra disponible en este repositorio:
 
-👉 [Documentación completa del modelado](DocumentaciónModeladoDatos_ProyectoFinal_Grupo4.docx)
-
+👉 [Documentación completa del modelado]
+👉 Conuslta aquí el código https://colab.research.google.com/drive/1HgNM5fyoVaInyZKgPkH-Q68hpG5WQLP4?usp=sharing
 ---
 
 ## Equipo
