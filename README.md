@@ -4,7 +4,7 @@
 
 La transición energética se ha convertido en uno de los principales desafíos globales del siglo XXI. A medida que aumenta la demanda de electricidad y se intensifican los compromisos climáticos, surge una pregunta clave:
 
-**¿Está el mundo reduciendo realmente su dependencia de los combustibles fósiles?**
+**si el crecimiento de las energías renovables está reduciendo realmente la dependencia global de los combustibles fósiles**
 
 Este proyecto analiza la evolución de la infraestructura energética mundial utilizando la *Global Power Plant Database* del World Resources Institute (WRI), que recopila información sobre miles de plantas de generación eléctrica en todo el mundo.
 
